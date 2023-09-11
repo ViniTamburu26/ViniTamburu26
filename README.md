@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViniTamburu26
-- 👀 I’m interested in AI, Cybersecurity, DevOps and Software Engineering. 
+- 👀 I’m interested in A.I, Cybersecurity, DevOps and Software Engineering. 
 - 🌱 I’m currently learning Python, Java and C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
