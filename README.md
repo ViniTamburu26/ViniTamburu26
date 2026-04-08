@@ -24,6 +24,8 @@ My main interest is using technology in a practical way to solve real business p
 - SharePoint
 - Exchange
 - Active Directory
+- Entra ID
+- Intune
 - TCP/IP Networking
 - PowerShell
 - Python
